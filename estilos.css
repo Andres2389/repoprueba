@@ -1,0 +1,24 @@
+form{
+    background-color: rgb(240, 212, 169);
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    overflow: hidden;
+   
+}
+h2{
+    background-color: antiquewhite;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    overflow: hidden;
+}
+hr{
+    padding: 15px;
+}
+input{
+    border-radius: 10px;
+}
+label{
+    font-size: 25px;
+}
